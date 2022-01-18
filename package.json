@@ -1,0 +1,31 @@
+{ "name": "data-waterfall-chart-220117-pmb",
+  "version": "0.1.0",
+  "description": "Make waterfall diagrams using ASCII art and render them to use Unicode Box Drawing characters.",
+  "keywords": [
+    "box drawing",
+    "data flow",
+    "flow chart",
+    "unicode",
+    "waterfall"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/data-waterfall-chart-220117-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/data-waterfall-chart-220117-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/data-waterfall-chart-220117-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+  "scripts": { "test": "bash test/all.sh" },
+  "directories": { "test": "test" },
+
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
